@@ -43,7 +43,7 @@
     "fs-extra2": "^1.0.0",
     "hagent": "^0.6.1",
     "hparser": "^0.3.0",
-    "iconv-lite": "0.4.7",
+    "iconv-lite": "0.6.2",
     "lru-cache": "^4.1.1",
     "mime": "^1.4.1",
     "multer": "1.2.1",
